@@ -38,11 +38,13 @@ import "./App.css";
 // import HelloWorldComponent from "./hello-world/hello-world-component";
 // import LeadersTomorrowComponent from "./leaders-tomorrow/leaders-tomorrow-component";
 // import SymbolComponent from "./symbol/symbol-component";
-import TrustedbyComponent from "./trusted-by/trusted-by-component";
+// import TrustedbyComponent from "./trusted-by/trusted-by-component";
+import ContactComponent from "./contactUs/contact.jsx";
+// import PostionComponent from "./positioning/position-component";
 function App() {
   return (
     <div>
-      <TrustedbyComponent />
+      <ContactComponent />
     </div>
   );
 }
