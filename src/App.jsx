@@ -37,11 +37,12 @@ import "./App.css";
 // import FlexBoxComponent from "./flex-box/flex-box-component";
 // import HelloWorldComponent from "./hello-world/hello-world-component";
 // import LeadersTomorrowComponent from "./leaders-tomorrow/leaders-tomorrow-component";
-import SymbolComponent from "./symbol/symbol-component";
+// import SymbolComponent from "./symbol/symbol-component";
+import TrustedbyComponent from "./trusted-by/trusted-by-component";
 function App() {
   return (
     <div>
-      <SymbolComponent />
+      <TrustedbyComponent />
     </div>
   );
 }
