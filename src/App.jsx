@@ -34,7 +34,7 @@
 
 // export default App
 import "./App.css";
-import ImpactComponent from "./Impact/impact-component";
+// import ImpactComponent from "./Impact/impact-component";
 // import FlexBoxComponent from "./flex-box/flex-box-component";
 // import HelloWorldComponent from "./hello-world/hello-world-component";
 // import LeadersTomorrowComponent from "./leaders-tomorrow/leaders-tomorrow-component";
@@ -43,10 +43,11 @@ import ImpactComponent from "./Impact/impact-component";
 // import ContactComponent from "./contactUs/contact.jsx";
 // import PostionComponent from "./positioning/position-component";
 // import ImpactComponent from "./Impact/impact-component";
+import OurPromiseComponent from "./our-promise/our-promise-component";
 function App() {
   return (
     <div>
-      <ImpactComponent />
+      <OurPromiseComponent />
     </div>
   );
 }
